@@ -17,6 +17,7 @@ cuisine: string;
   cuisineAlertOpts: { title: string, subTitle: string };
   initializeItems() {
     this.items = [
+      
       //this is where the restaurant info will be accessed
     ];
 
@@ -42,6 +43,5 @@ cuisine: string;
         return (item.toLowerCase().indexOf(val.toLowerCase()) > -1);
       })
     }
-  
 }
 }
