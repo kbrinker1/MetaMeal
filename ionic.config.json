@@ -1,0 +1,8 @@
+{
+  "name": "MetaMeal",
+  "app_id": "3cce1d70",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
